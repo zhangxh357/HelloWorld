@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="73606bc1-da0d-4569-9712-1c46b16e6185" name="HelloWorld" url="http://localhost">
+      <webServer id="73606bc1-da0d-4569-9712-1c46b16e6185" name="HelloWorld" url="https://github.com/zhangxh357/HelloWorld.git">
         <fileTransfer port="0" mountedRoot="F:\JavaGit" accessType="MOUNT" />
       </webServer>
     </option>
